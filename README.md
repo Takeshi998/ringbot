@@ -59,7 +59,7 @@ Bot de Discord para el servidor Ring Racers.
 
 borre `[texto de ejemplo]` menos las comas y comillas,de lo contrario el bot fallara espectacularmente
 
-## Add-ons utiles para el bot (agregar a la carpeta donde configuro su servidor y agregarlo al kartserv.cfg)
+## Add-ons utiles para el bot (agregar a la carpeta donde configuro su servidor y agregarlo al ringserv.cfg)
 
 - `KL_uglyhitfeed_v0.5b-discord.lua`- edite este archivo .lua con los nombres de sus enojis y sus resoectivas ids (aun no hay hitfeed,si desea implementarlo,modifique este archivo)
 - `notify_skin_change0.lua` - este otro archivo .lua si se agrega al servidor mostrara los avatares de "webhook_base_avatar_url": "https://kart.raphaelgoul.art/static/webhook_avatars/"
