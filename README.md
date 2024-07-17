@@ -67,3 +67,4 @@ borre `[texto de ejemplo]` menos las comas y comillas,de lo contrario el bot fal
 
 
 - `creditos a Goulart.Fafabis y Deagahelio`
+- `creditos a Lugent por proporcionar modificaciones adicionales a los mods que no funcionaron bien y ahora vuelven a trabajar de forma correcta :3`
